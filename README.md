@@ -45,5 +45,9 @@ The dashboard enables quick, visual monitoring of:
 - Excel / Power BI (for dashboard visualization)
 - CSV data source for raw transactional records
 
+screenshot/Demos show the dashboard link:
+
+Dataset link:
+
 
 
