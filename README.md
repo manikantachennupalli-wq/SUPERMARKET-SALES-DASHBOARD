@@ -45,9 +45,9 @@ The dashboard enables quick, visual monitoring of:
 - Excel / Power BI (for dashboard visualization)
 - CSV data source for raw transactional records
 
-screenshot/Demos show the dashboard link:
+screenshot/Demos show the dashboard link:https://github.com/manikantachennupalli-wq/SUPERMARKET-SALES-DASHBOARD/blob/main/super%20market%20salaes%20dash%20board.png
 
-Dataset link:
+Dataset link:https://drive.google.com/file/d/14azvraqauRsSk1v4SSMCjCqIwnP_HvOL/view?usp=sharing
 
 
 
